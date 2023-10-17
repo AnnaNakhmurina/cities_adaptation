@@ -329,6 +329,7 @@ drop _merge
 drop city_name_old A city_index
 rename keyword_adapt keyword_adapt_old
 rename measure_adapt_keywords keyword_adapt
+drop count_stormwater count_drainage count_stormwater_drain keyword_adapt_old
 
 save 2_stata/textual_data_all, replace
 
