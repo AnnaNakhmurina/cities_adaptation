@@ -3,14 +3,14 @@ This GitHub page provides the codes and the data from **Financial constraints an
 
 **Data provided in this Github:**<br>
 Textual analysis adaptation measures<br>
-Political affiliation<br>
 Budget planning horizon <br>
+Political affiliation<br>
 State-level grant availability<br>
-FEMA insurance <br>
-NOAA Weather and Climate Disasters data<br>
+FEMA insurance CRS class code <br>
+
 <br>
 **Third-party Data sources:**<br>
 Flood risk data: First Street Foundation<br>
 City demographic and financial data: Muni Atlas<br>
 Local climate opinion: Yale Climate Opinion Survey<br>
-
+Hurricane: NOAA Weather and Climate Disasters data<br>
